@@ -1,0 +1,1 @@
+Everything in this folder is related to a self-build potentiostat intended for scaling up to a high throughput design, with a compact footprint, which is especially well suited for use in glovebox and a highly parallelized measurement environment.
